@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>SHE MODEL TECH</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/logo.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: eNno - v4.10.0
+  * Template URL: https://bootstrapmade.com/enno-free-simple-bootstrap-template/
+  * Author: BootstrapMade.com / SHE MODEL TECH
+  * License: https://bootstrapmade.com/license/ she model tech
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top">
+    <div class="container d-flex align-items-center justify-content-between">
+
+      <!-- <h1 class="logo"><a href="index.html"></a>SHE MODEL TECH</h1>-->
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li><a class="nav-link scrollto" href="#testimonials">Mentors</a></li>
+          <li><a class="nav-link scrollto" href="#footer">Contact</a></li>
+          <li><a class="getstarted scrollto" href="https://forms.gle/5VMZcPfLB5eNpECk9">Apply Now</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex align-items-center">
+
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
+          <h1>SHE MODEL TECH</h1>
+          <p>&nbsp;</p>
+          <p>Devoted to educating and mentoring women who want to start or advance their professions in information technology.<p>
+          <div class="d-flex">
+            <a href="https://forms.gle/5VMZcPfLB5eNpECk9" class="btn-get-started scrollto">APPLY NOW</a>
+            <a href="https://youtu.be/TYYlqjyssWo" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Learn more</span></a>
+          </div>
+        </div>
+        <div class="col-lg-6 order-1 order-lg-2 hero-img">
+          <img src="assets/img/abt2.webp" class="img-fluid animated" alt="">
+        </div>
+      </div>
+    </div>
+
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= Featured Services Section ======= -->
+    <section id="featured-services" class="featured-services">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <div class="icon-box">
+              <div class="icon"><i class="bi bi-laptop"></i></div>
+              <h4 class="title"><a href="">Vision</a></h4>
+              <p class="description">To increase the representation of women from underserved communities in the field of information technology.</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+            <div class="icon-box">
+              <div class="icon"><i class="bi bi-card-checklist"></i></div>
+              <h4 class="title"><a href="">What we have for you</a></h4>
+              <p class="description">Mentorship and IT training</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
+            <div class="icon-box">
+              <div class="icon"><i class="bi bi-clipboard-data"></i></div>
+              <h4 class="title"><a href="">Eligibility</a></h4>
+              <p class="description">Women interested in developing a career in information technology.</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Featured Services Section -->
+    
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-lg-6">
+            <img src="assets/img/blog_mentorship_program.jpeg" class="img-fluid" alt="">
+          </div>
+          
+          <div class="col-lg-6 pt-4 pt-lg-0 content">
+               <p>&nbsp;</p>
+            <h3>GET MENTORED</h3>
+            <p class="fst-italic"></p>
+            <ul>
+              <li><i class="bi bi-check-circle"></i>Get free live IT skill training at your disposal.</li>
+              <li><i class="bi bi-check-circle"></i>Get connected to mentors in your tech field.</li>
+              <li><i class="bi bi-check-circle"></i>Gain access to quality, free IT resources and certifications that are relevant to your area of expertise.</li>
+              <li><i class="bi bi-check-circle"></i>Get connected to people developing a career in your tech field.</li>
+              <li><i class="bi bi-check-circle"></i>Get help and clarity when stuck in your tech field.</li>
+               <li><i class="bi bi-check-circle"></i>Get a career guide and clarity on how to start a career in tech.</li>
+            </ul>
+    
+        </div>
+        
+          </div>
+          
+        </div>
+
+
+    </section><!-- End About Section -->
+
+           
+          
+    
+     <!-- ======= Cta Section ======= -->
+    <section id="cta" class="cta">
+      <div class="container">
+
+        <div class="text-center">
+          <h3></h3>
+          <p>Learn free IT skills and engage a mentor to guide you as you build a successful tech career.</p>
+          <a class="cta-btn" href="https://forms.gle/5VMZcPfLB5eNpECk9">APPLY NOW</a>
+        </div>
+
+      </div>
+    </section><!-- End Cta Section -->
+    
+   
+
+    <!-- ======= Counts Section ======= -->
+   
+    <!-- End Counts Section -->
+
+    <!-- ======= Services Section ======= -->
+    
+    <!-- End Services Section -->
+
+    <!-- ======= Portfolio Section ======= -->
+    
+
+       <!-- End Portfolio Section -->
+
+    <!-- ======= Testimonials Section ======= -->
+    <section id="testimonials" class="testimonials section-bg">
+      <div class="container">
+
+        <div class="section-title">
+          <span>MENTORS</span>
+          <h2>MENTORS</h2>
+          <p>Connect with a tech professional who can guide you along the career path you are presently building for yourself.</p>
+        </div>
+
+        <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  I have been a software engineer for about 10 years and trained in data science a few years ago. I worked in different companies, including e-commerce, web agencies, and startups. More specifically, I create data science courses for my company, Codistwa, and I am also a technical write.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/She1.png" class="testimonial-img" alt="">
+                <h3>Assitan, Koné</h3>
+                <h4>Ceo &amp; Founder, Codistwa</h4>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Data Analytics Engineer with years of experience in data orchestration, data transformation, and Cloud computing for big data processing. She is currently enrolled in the European Master in Official Statistics (EMOS) program. Above all, she loves to assist and support aspiring individuals in the data field.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/She3.jpg" class="testimonial-img" alt="">
+                <h3>Melody, Egwuchukwu</h3>
+                <h4>Data Analyst</h4>
+              </div>
+            </div><!-- End testimonial item -->
+
+ <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  a performance- and result-driven product manager with IoT, SAAS, and Fintech experience, experience working in start-ups, and experience implementing strategic marketing aimed at finding opportunities to maximize revenue.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/She10.jpeg" class="testimonial-img" alt="">
+                <h3>Joyce, Daramola</h3>
+                <h4>Product Manager</h4>
+              </div>
+            </div><!-- End testimonial item -->
+            
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  An experienced STEM Instructor, who is passionate about cutting-edge technologies: (UAV, UAM, VR, ML, IoT, 3D design & ROS) with a demonstrated history of working in the downstream - Oil and Gas Industry, EdTech Organizations, among other research-oriented firms (home & abroad).
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/She9.jpeg" class="testimonial-img" alt="">
+                <h3>Cyril, Azubuine</h3>
+                <h4>Cloud Support Engineer at Tek Experts</h4>
+              </div>
+            </div><!-- End testimonial item -->
+            
+               <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  A Data Engineer, Power BI data analyst, and Microsoft certified data scientist with the goal of training and helping less privileged and under- represented individuals navigate into the Information technology space, so we can build flushes of IT professionals who can support the wave of the 4th industrial revolution.
+                </p>
+                <img src="assets/img/testimonials/SHE-1.jpeg" class="testimonial-img" alt="">
+                <h3>Cephas, Chukwuwike</h3>
+                <h4>Founder, Riveting Data ConsultsData</h4>
+              </div>
+            </div><!-- End testimonial item -->
+              
+              <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                A Proficient machine learning engineer, with practice in data collection, processing, analysis, modeling, deployment and communication through end-to-end data science projects done in large (50+ members) and international collaborations. A teacher, lovely 5-star uncle, an introvert, a researcher, and a community believer.
+                </p>
+                <img src="assets/img/testimonials/She4.png" class="testimonial-img" alt="">
+                <h3>Joseph, Abubakar</h3>
+                <h4>Machine Learning Engineer</h4>
+              </div>
+            </div><!-- End testimonial item -->
+            
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>Innovative Software engineer with diverse work history and educational background. strong background in computer programming languages (C#, Java, and Python), cloud solutions (Microsoft Azure), and knowledge of various types of databases. solid skills in statistics and algorithms, artificial intelligence, and machine learning.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/She6.jpg" class="testimonial-img" alt="">
+                <h3>Samuel, Babalola</h3>
+                <h4>Lead &amp;Sr.Software Engineer</h4>
+              </div>
+            </div><!-- End testimonial item -->
+            
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  A researcher, engineer, and certified data scientist who is dedicated about using artificial intelligence to address societal and corporate issues. She was appointed community lead at the Global AI Hub, an IBM Masters Fellow, and a Google ambassador for women techmakers.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/SHE_1.jpg" class="testimonial-img" alt="">
+                <h3>Opeyemi, Adeniran</h3>
+                <h4>IT Career Path, Mentor</h4>
+              </div>
+            </div><!-- End testimonial item -->
+
+            
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+    </section><!-- End Testimonials Section -->
+    
+    <!-- ======= Counts Section ======= -->
+    <section id="counts" class="counts section-bg">
+      <div class="container">
+
+        <div class="row counters">
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="40" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Mentees</p>
+          </div>
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1" class="purecounter"></span>
+            <p>IT skills resources</p>
+          </div>
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="1" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Live classes</p>
+          </div>
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="9" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Mentors</p>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Counts Section -->
+    
+     <!-- ======= Cta Section ======= -->
+    <section id="cta" class="cta">
+      <div class="container">
+
+        <div class="text-center">
+          <h3>Develop your tech skills</h3>
+          <p>Receive help from professionals and take advantage of free, live IT training that is tailored to your IT career path.</p>
+          <a class="cta-btn" href="https://forms.gle/5VMZcPfLB5eNpECk9">APPLY NOW</a>
+        </div>
+
+      </div>
+    </section><!-- End Cta Section -->
+    
+     <!-- ======= Popular Courses Section ======= -->
+    <section id="popular-courses" class="courses">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Courses</h2>
+          <p>Popular Courses</p>
+        </div>
+
+        <div class="row" data-aos="zoom-in" data-aos-delay="100">
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="course-item">
+              <img src="assets/img/courses/1.png" class="img-fluid" alt="...">
+              <div class="course-content">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                  <h4>Coding</h4>
+                  <p class="price">$0</p>
+                </div>
+
+                <h3><a href="course-details.html">Python</a></h3>
+                <p>In this class, you'll have the opportunity to learn the fundamentals of programming in Python, a popular and powerful programming language used in a variety of applications such as web development, data science, machine learning, and more.</p>
+                <div class="trainer d-flex justify-content-between align-items-center">
+                  <div class="trainer-profile d-flex align-items-center">
+                    <img src="assets/img/testimonials/SHE_1.jpg" class="img-fluid" alt="">
+                    <span>Opeyemi Adeniran</span>
+                  </div>
+                   <div class="trainer-rank d-flex align-items-center">
+                    <i class="bx bx-user"></i>&nbsp;30
+                    &nbsp;&nbsp;
+                    <i class="bx bx-heart"></i>&nbsp;30
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div> <!-- End Course Item-->
+
+        </div>
+
+      </div>
+      
+    </section><!-- End Popular Courses Section -->
+
+    
+<!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex align-items-center">
+
+    <div class="container">
+      
+      <div class="row">
+        
+        <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
+         
+             <section id="about" class="about">
+                 
+            <div class="col-lg-6 pt-4 pt-lg-0 content">
+                
+                   <h3>JOIN LIVE CLASSES</h3>
+         
+                  <ul>
+              <li><i class="bi bi-check-circle"></i>Interactive Q&A sessions</li>
+              <li><i class="bi bi-check-circle"></i>Group projects</li>
+              <li><i class="bi bi-check-circle"></i>Recorded lectures</li>
+              <li><i class="bi bi-check-circle"></i>Breakout sessions</li>
+              <li><i class="bi bi-check-circle"></i>Hands-on activities</li>
+                 </ul>
+                  <p>&nbsp;</p>
+            </div>
+                      
+                 <p class="fst-italic">Participate in a series of live IT classes taught by mentors in your area of expertise.</p>
+          <div class="d-flex">
+            <a href="https://forms.gle/5VMZcPfLB5eNpECk9" class="btn-get-started scrollto">APPLY NOW</a>
+          </div>
+          
+        </div>
+        
+        
+          
+        <div class="col-lg-6 order-1 order-lg-2 hero-img">
+          <img src="assets/img/about1.webp" class="img-fluid animated" alt="">
+        </div>
+      </div>
+    </div>
+    
+      </section>
+      
+  </section><!-- End Hero -->
+
+
+    <!-- ======= Team Section ======= -->
+    
+     <!-- End Team Section -->
+
+    <!-- ======= Contact Section ======= -->
+   
+    <!-- End Contact Section -->
+
+  </main><!-- End #main website design-->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+    <div class="footer-top">
+
+      <div class="container">
+
+        <div class="row  justify-content-center">
+          <div class="col-lg-6">
+            <h3>CONTACT US</h3>
+            <p>email: contact@shemodeltech.com</p>
+          </div>
+        </div>
+        <div class="social-links">
+          <a href="https://twitter.com/shemodeltech" class="twitter"><i class="bx bxl-twitter"></i></a>
+           <a href="https://www.facebook.com/shemodeltech" class="Facebook"><i class="bx bxl-facebook"></i></a>
+          <a href="https://www.instagram.com/shemodeltech/" class="instagram"><i class="bx bxl-instagram"></i></a>
+          <a href="https://www.linkedin.com/company/she-model-tech/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="container footer-bottom clearfix">
+      <div class="copyright">
+        &copy; Copyright <strong><span>SHE MODEL TECH</span></strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/enno-free-simple-bootstrap-template/ -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
